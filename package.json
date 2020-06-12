@@ -1,0 +1,29 @@
+{
+  "name": "evez-aslanov",
+  "version": "1.0.0",
+  "description": "ilk proje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "evez": "echo 'Evez Aslanov 1994'",
+    "star": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evez94/evez-aslanov-rustem.git"
+  },
+  "keywords": [
+    "test",
+    "evez"
+  ],
+  "author": "Evez Aslanov Rustem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evez94/evez-aslanov-rustem/issues"
+  },
+  "homepage": "https://github.com/Evez94/evez-aslanov-rustem#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.8",
+    "simple-is": "^0.2.0"
+  }
+}
